@@ -18,7 +18,24 @@
 
 ![error](https://github.com/nirmal-jack/staticwebsiteusings3/assets/170439621/907c01f0-f089-4b38-8d6c-193ed6db4910)
 
-- This is because, all public access to the bucket are disabled by default. we have to manually enable it.
+- This is because, all public access to the bucket are disabled by default. we have to manually enable it. Go to permissions tab, and enable the public access and save changes.
+  ![permissions](https://github.com/nirmal-jack/staticwebsiteusings3/assets/170439621/cc6e25bb-f9cf-47ae-b8a3-b68a77c448e6)
+
+
+  ![static2](https://github.com/nirmal-jack/staticwebsiteusings3/assets/170439621/7b387ba0-fc79-4678-ba5b-f8fc2a45bfd9)
+
+  - go to bucket policy and edit it under the "Permissions" tab. paste the bucket policy with the bucket name and click on save changes
+ 
+
+    ![Capture](https://github.com/nirmal-jack/staticwebsiteusings3/assets/170439621/8a04d004-7b3a-4d40-bbd8-f051a7451ec7)
+
+    - go to the s3 bucket and upload the html file and other files as needed.
+   
+    ![s3](https://github.com/nirmal-jack/staticwebsiteusings3/assets/170439621/7fd35906-35a8-43db-9da5-30afd1ba584c)
+
+
+
+
 
   
 
